@@ -13,7 +13,7 @@ As a Data Analyst, I designed this interactive Power BI dashboard to help busine
 ## 📸 Dashboard
 
 ### Page 1 — Sales Overview
-![Sales Overview](e-commerce-overview.png)
+![Sales Overview](e%20commerce%20overview.png)
 
 This page answers the question: **"How is the business performing overall?"**
 It consolidates the most critical KPIs — **36M in revenue, 27K orders, 1K customers, AOV of 1.35K** and a **+9% Sales Growth MoM** — giving leadership an instant pulse on the business. Visualizations break down revenue by country, product, payment method, and category, revealing that **Laptop drives the highest revenue**, **France and India lead geographically**, and **Electronics account for nearly 60% of all orders**.
@@ -21,7 +21,8 @@ It consolidates the most critical KPIs — **36M in revenue, 27K orders, 1K cust
 ---
 
 ### Page 2 — Sales Analysis
-![Sales Analysis](sales-analysis.png)
+![Sales Analysis](sales%20analysis.png)
+
 
 This page answers the question: **"Where should we focus to improve?"**
 With **81K units sold**, a UPT of **3**, and an ASP of **447**, transactional efficiency is strong — but a **34% payment failure rate** stands out as a priority risk. The product performance bubble chart confirms a **premium pricing strategy for Laptops**, while the revenue decomposition highlights consistent monthly contributions across categories, supporting more reliable forecasting.
